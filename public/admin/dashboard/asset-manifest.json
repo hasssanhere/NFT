@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/admin/dashboard/static/css/main.543900d2.chunk.css",
+    "main.js": "/admin/dashboard/static/js/main.15d1e0fd.chunk.js",
+    "main.js.map": "/admin/dashboard/static/js/main.15d1e0fd.chunk.js.map",
+    "runtime-main.js": "/admin/dashboard/static/js/runtime-main.f794b83f.js",
+    "runtime-main.js.map": "/admin/dashboard/static/js/runtime-main.f794b83f.js.map",
+    "static/js/2.02096588.chunk.js": "/admin/dashboard/static/js/2.02096588.chunk.js",
+    "static/js/2.02096588.chunk.js.map": "/admin/dashboard/static/js/2.02096588.chunk.js.map",
+    "static/js/3.79f4a207.chunk.js": "/admin/dashboard/static/js/3.79f4a207.chunk.js",
+    "static/js/3.79f4a207.chunk.js.map": "/admin/dashboard/static/js/3.79f4a207.chunk.js.map",
+    "index.html": "/admin/dashboard/index.html",
+    "static/css/main.543900d2.chunk.css.map": "/admin/dashboard/static/css/main.543900d2.chunk.css.map",
+    "static/js/2.02096588.chunk.js.LICENSE.txt": "/admin/dashboard/static/js/2.02096588.chunk.js.LICENSE.txt",
+    "static/media/loading2.375b78e7.svg": "/admin/dashboard/static/media/loading2.375b78e7.svg",
+    "static/media/metamask-logo.57b9c840.svg": "/admin/dashboard/static/media/metamask-logo.57b9c840.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f794b83f.js",
+    "static/js/2.02096588.chunk.js",
+    "static/css/main.543900d2.chunk.css",
+    "static/js/main.15d1e0fd.chunk.js"
+  ]
+}

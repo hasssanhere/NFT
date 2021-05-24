@@ -1,0 +1,31 @@
+#main-wrapper.oxyy-login-register {
+  background: #fff;
+}
+.oxyy-login-register {
+  .section {
+    position: relative;
+    padding: 4.5rem 0;
+    overflow: hidden;
+  }
+}
+@media (max-width: 767.98px) {
+  .oxyy-login-register {
+    .section {
+      padding: 3.5rem 0;
+    }
+    .modal {
+      .close {
+        position: absolute;
+        z-index: 1;
+        right: 8px;
+      }
+    }
+  }
+}
+@media (min-width: 1200px) {
+  .oxyy-login-register {
+    .container {
+      max-width: 1170px !important;
+    }
+  }
+}
